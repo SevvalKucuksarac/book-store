@@ -1,0 +1,35 @@
+/* body */
+
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: #e7e1dd;
+}
+h1 {
+    color: #0e1d01;
+}
+h2 {
+    color: #365838;
+}
+h3 {
+    color: #7f8d72;
+}
+ul {
+    list-style-position: inside;
+}
+.liste {
+    list-style-type: none;
+}
+.liste li {
+    display: inline
+}
+ol {
+    list-style-position: inside;
+}
+.sol {
+    text-align: left;
+}
+img {
+    max-width: 200px;
+    height: auto;
+    }
